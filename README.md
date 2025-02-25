@@ -11,6 +11,7 @@ Responsive and user-friendly UI.
 Load more images on demand.
 
 Optimized for fast performance.
+-----------------------------------------------------------------------------------------------------------
 
 🔧 Technologies Used
 HTML - Structure of the webpage.
@@ -23,6 +24,7 @@ API - Fetches images from a free image provider.
 
 📸 Demo
 Check out the live demo: - https://image-search-engine-bysam.netlify.app/
+----------------------------------------------------------------------------------------------------------
 
 📂 Installation & Usage
 Clone the repository:
@@ -43,6 +45,7 @@ JavaScript fetches images from the API based on the query.
 The images are displayed dynamically in a grid layout.
 
 Users can load more results as needed.
+------------------------------------------------------------------------------------------------------------
 
 🖼️ Screenshots
 
